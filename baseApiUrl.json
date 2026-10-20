@@ -1,0 +1,22 @@
+{
+  "api": "https://mahmud-apis.vercel.app",
+  "apis": [
+    "https://mahmud-apis.vercel.app",
+    "https://mahmud-global-apis.onrender.com",
+    "https://chico-apihub.onrender.com",
+    "https://mahmud-global-apis-007.onrender.com"
+  ],
+  "mahmud": [
+    "https://mahmud-apis-x900.onrender.com"
+  ],
+  "album": "https://mahmud-album-api.onrender.com",
+  "ytb": "https://mahmud-ytb.vercel.app",
+  "baby": "https://mahmud-baby.onrender.com",
+  "teach": "https://mahmud-jan.onrender.com",
+  "imgur": "https://mahmud-imgur.csb.app",
+  "mahmud69": "https://mahmud-apis-hueg.onrender.com",
+  "find": "https://shazam-api-v4.onrender.com",
+  "mahmudexe": "https://mahmud-pair.onrender.com",
+  "store": "https://mahmud-store.onrender.com",
+  "mahmudpair": "https://mahmud-pair.onrender.com"
+}
